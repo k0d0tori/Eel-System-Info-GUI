@@ -1,0 +1,45 @@
+@font-face {
+  font-family: quicksand;
+  src: url(Quicksand-Regular.otf);
+}
+
+body {
+  background-image: url('backgr.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: quicksand;
+  line-height: 1.6;
+}
+
+.flex {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 15px;
+  font-size: 33px;
+  height: 77px;
+  width: 400px;
+  color: #FFFFFF;
+  font-family: quicksand;
+  background: url(button.png);
+  background-size: cover;
+  border: none;
+  outline:none;
+}
+
+#inf {
+  text-align: center;
+  font-size: 33px;
+  color: #FFFFFF;
+  font-family: quicksand;
+}
+
+.number {
+  font-size: 40px;
+  font-weight: bold;
+}
