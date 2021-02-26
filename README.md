@@ -6,3 +6,5 @@ To launch, cd into the directory with CMD/Terminal and execute the infou.py file
 Can be made into an .exe with pyinstaller.
 
 ![exmpl](https://user-images.githubusercontent.com/58919107/109361080-9b38ac00-7888-11eb-9d09-cd53dcbad2ea.png)
+
+Visuals were created by me and can be freely used by anyone for any purposes.
